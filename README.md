@@ -1,2 +1,2 @@
-# Edge-AI
+# MachineLearning-AI
 Inclusive coding
