@@ -1,3 +1,2 @@
 # 2048 Game
-Inclusive coding
-This is a simple 2048 game, written in the C/C++ programming language. 
+The 2048 consists of a 4×4 grid. When the game starts, there will be two squares on the grid with "numbers" appearing in each square. The number displayed in each square is 2 or 4. The player presses the wasd key on the keyboard to move the tiles - and generate new tiles, which will also be a value of 2 or 4. When two equal numbers collide, the numbers add up to make a larger number which is their sum. Obviously, the more the tiles move, the more crowded the board will be. The goal is to reach 2048 before the board is filled.
